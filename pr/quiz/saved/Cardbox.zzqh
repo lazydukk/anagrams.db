@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE zyzzyva-quiz SYSTEM 'http://boshvark.com/dtd/zyzzyva-quiz.dtd'>
+<zyzzyva-quiz type="Anagrams" question-order="Schedule" lexicon="CSW21" method="Cardbox">
+ <question-source type="cardbox-ready"/>
+</zyzzyva-quiz>
