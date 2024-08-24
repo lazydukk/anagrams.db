@@ -1,3 +1,6 @@
 # anagrams.db
 
-<iframe width="253" height="157" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQwZFfcR97ydIW_tN943gMW-lpW6aeBagN9KFHYii5NoIR-JbRypzHpJ_FOhyzxCZX-wNXsc3S7E0bN/pubchart?oid=366174810&amp;format=interactive"></iframe>
+## aerolith list to zyzzyva -->
+- run `./aerolith/scripty.py` then enter the file name;
+- as an example: 4s-08-25.txt
+- then import the "stripped-4s-08-25.txt" file in to zyzzyva.
