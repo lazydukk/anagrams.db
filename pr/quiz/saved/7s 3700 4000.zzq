@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE zyzzyva-quiz SYSTEM 'http://boshvark.com/dtd/zyzzyva-quiz.dtd'>
+<zyzzyva-quiz method="Standard" question-order="Random" lexicon="CSW21" type="Anagrams">
+ <question-source type="search">
+  <zyzzyva-search version="1">
+   <conditions>
+    <and>
+     <condition string="CORVINE ORIENCY PTEROIC EVICTOR COWRITE FERMION FORPINE FIREPOT PIEFORT OVERFIT MOITHER MOTHIER PHONIER OVERHIT PROMINE EMPTION PIMENTO OMNEITY OMNIETY VOMITER PROVINE OVERTIP PIVOTER TABOOED SEABOOT NAPOOED OSTEOMA OROPESA DOOBRIE OBELION LOOBIER BOONIES BOOTIES COORIED CLOOTIE COORIES COOTIES HOODIER DHOOTIE DOOMIER MOIDORE MOODIER WOODIER ROOFIES FOOTIES FOOTSIE OOFIEST HOOLIER SHOOTIE TOOSHIE OINOMEL POLONIE VIOLONE LOOPIER WOOLIER ISONOME MOONIES NOISOME ROOMIES ISOTOPE RONTGEN NAGAPIE VAGINAE WAINAGE IGARAPE IMAGINE TOELIKE EIKONES ZEOLITE REAKING ZINGARE TEAZING TZIGANE OUTEDGE EUGENOL RATTLED STANDEN DARNERS ERRANDS SNARRED ATTENDS ATTUNED NUTATED TAUNTED DARTERS DARTRES RETARDS STARRED TRADERS STARTED TETRADS ENSNARL LANNERS UNLEARN STANNEL ANNULET SNARLER LATENTS LATTENS TALENTS LATTERS RATTLES SLATTER STARLET STARTLE TATLERS TUTELAR ATTUNES NUTATES TAUTENS TETANUS UNSTATE ASTUTER STATURE DINNERS ENDRINS DUNNIER INURNED DENTINS INDENTS INTENDS DUNNITE NURDIER DENTIST DISTENT STINTED STIRRED STRIDER LINNETS LITTERS SLITTER STILTER TESTRIL TILTERS TITLERS SUNNIER UNREINS UNRISEN TUNNIES INSURER RUINERS TUNIEST RUSTIER TERTIUS BEAMIER FAIENCE FIANCEE HICATEE TEACHIE EMICATE HEAPIER HEAVIER EMPAIRE INWEAVE CORONET MONTERO SOLANIN ALTOIST OURARIS DIEDRAL DRAILED LADDIER DILATED DANDIES SDAINED UNAIDED TADDIES AUDITED DALLIER DIALLER RALLIED TALLIED SDAINES DISSEAT SAIDEST AINSELL UILLEAN RALLIES SALLIER RUELLIA SITELLA TAILLES TALLIES SALINES SILANES AIRLESS RESAILS SAILERS SERAILS SERIALS SALTIES SAURIES ENRANGE TENTAGE GREATER REGRATE ENGINER INGENER TEENING TERGITE DARLING LARDING DARINGS GRADINS DAURING DATINGS DAUTING ANGLIST LASTING SALTING SLATING STALING AIRGUNS SAUTING GUITARS LENDERS RELENDS SLENDER DENTELS NESTLED ENDURES ENSURED DETENUS DETUNES UNREELS ELUENTS UNSTEEL BONDAGE DOGBANE ALBERGO GLOBATE NOSEBAG BORAGES CONGAED DECAGON CARGOED CORDAGE CONGEAL CATELOG GELCOAT CARGOES CORSAGE SOCAGER COURAGE FORAGED FAGOTED HAGRODE PONDAGE DOGVANE GOWANED WAGONED DOWAGER WORDAGE FLOTAGE FORAGES HALOGEN GHERAOS HOSTAGE GLOMERA GOMERAL PERGOLA VORLAGE VOLTAGE GAMONES MANGOES ROMAGES NOSEGAY PARGOES GESTAPO POSTAGE POTAGES OUVRAGE STOWAGE TOWAGES OUTGAVE BINGOED BOINGED BODGIER BIGOTED IGNOBLE INGLOBE GLOBIER OBLIGER BINGOES BIOGENS COIGNED ERGODIC COGNISE COIGNES FIREDOG HONGIED HOGTIED DEMOING MENDIGO PIDGEON WENDIGO WIDGEON WONGIED PODGIER HONGIES SHOEING" negated="0" type="In Word List"/>
+    </and>
+   </conditions>
+  </zyzzyva-search>
+ </question-source>
+ <randomizer seed2="8092" seed="1725416877" algorithm="1"/>
+ <progress question="144" question-complete="true" correct="117">
+  <question-correct-responses>
+   <response word="LITTERS"/>
+   <response word="TILTERS"/>
+  </question-correct-responses>
+  <incorrect-responses>
+   <response word="BLOTAGE" count="2"/>
+   <response word="BOGATLE" count="2"/>
+   <response word="BOIGNED" count="0"/>
+   <response word="BONGIES" count="2"/>
+   <response word="BOOLIER" count="0"/>
+   <response word="BORLAGE" count="2"/>
+   <response word="CEMIATE" count="2"/>
+   <response word="CLOGATE" count="2"/>
+   <response word="CODGIER" count="2"/>
+   <response word="COINERY" count="2"/>
+   <response word="COLGATE" count="2"/>
+   <response word="CONDAGE" count="2"/>
+   <response word="COODIER" count="2"/>
+   <response word="COOLITE" count="2"/>
+   <response word="COONTER" count="2"/>
+   <response word="CORAGES" count="2"/>
+   <response word="CORASGE" count="2"/>
+   <response word="CORTIVE" count="2"/>
+   <response word="CORVITE" count="2"/>
+   <response word="DATTERS" count="2"/>
+   <response word="DEDRAIL" count="2"/>
+   <response word="DENTLES" count="0"/>
+   <response word="DENURES" count="2"/>
+   <response word="DINNRES" count="0"/>
+   <response word="DOOCIER" count="2"/>
+   <response word="DOWNAGE" count="0"/>
+   <response word="DREDIAL" count="2"/>
+   <response word="DURNIER" count="2"/>
+   <response word="EMPERIA" count="2"/>
+   <response word="FLOGATE" count="2"/>
+   <response word="FORGIED" count="2"/>
+   <response word="FORTIVE" count="2"/>
+   <response word="GABONED" count="2"/>
+   <response word="GABONES" count="2"/>
+   <response word="GENTRON" count="2"/>
+   <response word="GEOPAST" count="2"/>
+   <response word="GETTIER" count="2"/>
+   <response word="GHATOES" count="2"/>
+   <response word="GLAMORE" count="2"/>
+   <response word="GOWATES" count="0"/>
+   <response word="GUSTRIA" count="2"/>
+   <response word="HOOTIED" count="2"/>
+   <response word="HOOTIES" count="0"/>
+   <response word="HORDAGE" count="2"/>
+   <response word="HORSAGE" count="2"/>
+   <response word="IONOMEL" count="2"/>
+   <response word="IONOMES" count="2"/>
+   <response word="LARNERS" count="0"/>
+   <response word="LASSIER" count="0"/>
+   <response word="LENTINS" count="2"/>
+   <response word="LUNNATE" count="2"/>
+   <response word="MINIAGE" count="2"/>
+   <response word="MORAGES" count="2"/>
+   <response word="NEURINS" count="2"/>
+   <response word="NOYAGES" count="2"/>
+   <response word="OBOATES" count="2"/>
+   <response word="PAIRAGE" count="2"/>
+   <response word="POCRITE" count="2"/>
+   <response word="POIGNED" count="2"/>
+   <response word="POMINER" count="0"/>
+   <response word="POOLIER" count="2"/>
+   <response word="POOLINE" count="2"/>
+   <response word="PORIDGE" count="2"/>
+   <response word="PROLAGE" count="2"/>
+   <response word="RANDERS" count="0"/>
+   <response word="RAULLIE" count="2"/>
+   <response word="REGREAT" count="0"/>
+   <response word="RETILTS" count="1"/>
+   <response word="ROOTMEN" count="2"/>
+   <response word="RUNDIER" count="2"/>
+   <response word="RUNNIES" count="2"/>
+   <response word="SANDIES" count="2"/>
+   <response word="SAURING" count="2"/>
+   <response word="SHOIENG" count="2"/>
+   <response word="SLATTEN" count="2"/>
+   <response word="SLENTED" count="0"/>
+   <response word="STANNED" count="2"/>
+   <response word="TABOOES" count="2"/>
+   <response word="TAILLED" count="0"/>
+   <response word="TANNELS" count="2"/>
+   <response word="TARTLED" count="0"/>
+   <response word="TARTLES" count="2"/>
+   <response word="TAULTER" count="2"/>
+   <response word="TAUNTES" count="2"/>
+   <response word="TAUTERS" count="2"/>
+   <response word="TAUTLER" count="2"/>
+   <response word="TENTALS" count="2"/>
+   <response word="THOVIER" count="2"/>
+   <response word="TINNELS" count="2"/>
+   <response word="TRETALS" count="2"/>
+   <response word="UNTASTE" count="2"/>
+   <response word="UNTINED" count="0"/>
+  </incorrect-responses>
+  <missed-responses>
+   <response word="AINSELL" count="1"/>
+   <response word="AIRGUNS" count="1"/>
+   <response word="ALBERGO" count="1"/>
+   <response word="ALTOIST" count="1"/>
+   <response word="ANNULET" count="1"/>
+   <response word="ASTUTER" count="1"/>
+   <response word="ATTUNES" count="1"/>
+   <response word="BINGOES" count="1"/>
+   <response word="BIOGENS" count="1"/>
+   <response word="CARGOED" count="1"/>
+   <response word="CARGOES" count="1"/>
+   <response word="CATELOG" count="1"/>
+   <response word="CLOOTIE" count="1"/>
+   <response word="CONGAED" count="1"/>
+   <response word="CONGEAL" count="1"/>
+   <response word="COORIED" count="1"/>
+   <response word="CORONET" count="1"/>
+   <response word="CORSAGE" count="1"/>
+   <response word="DARTERS" count="1"/>
+   <response word="DARTRES" count="1"/>
+   <response word="DECAGON" count="1"/>
+   <response word="DHOOTIE" count="1"/>
+   <response word="DIEDRAL" count="1"/>
+   <response word="DOGBANE" count="1"/>
+   <response word="DOGVANE" count="1"/>
+   <response word="DRAILED" count="1"/>
+   <response word="EMICATE" count="1"/>
+   <response word="EMPAIRE" count="1"/>
+   <response word="ENDURES" count="1"/>
+   <response word="ENSURED" count="1"/>
+   <response word="ERGODIC" count="1"/>
+   <response word="EVICTOR" count="1"/>
+   <response word="FIREDOG" count="1"/>
+   <response word="FLOTAGE" count="1"/>
+   <response word="GELCOAT" count="1"/>
+   <response word="GESTAPO" count="1"/>
+   <response word="GHERAOS" count="1"/>
+   <response word="GLOBATE" count="1"/>
+   <response word="GLOMERA" count="1"/>
+   <response word="GOMERAL" count="1"/>
+   <response word="GOWANED" count="1"/>
+   <response word="GUITARS" count="1"/>
+   <response word="HAGRODE" count="1"/>
+   <response word="HICATEE" count="1"/>
+   <response word="HONGIED" count="1"/>
+   <response word="HONGIES" count="1"/>
+   <response word="HOSTAGE" count="1"/>
+   <response word="IGARAPE" count="1"/>
+   <response word="IMAGINE" count="1"/>
+   <response word="INSURER" count="1"/>
+   <response word="ISONOME" count="1"/>
+   <response word="LATENTS" count="1"/>
+   <response word="LINNETS" count="1"/>
+   <response word="LOOPIER" count="1"/>
+   <response word="MONTERO" count="1"/>
+   <response word="NOISOME" count="1"/>
+   <response word="NOSEBAG" count="1"/>
+   <response word="NOSEGAY" count="1"/>
+   <response word="NURDIER" count="1"/>
+   <response word="NUTATES" count="1"/>
+   <response word="OINOMEL" count="1"/>
+   <response word="ORIENCY" count="1"/>
+   <response word="OROPESA" count="1"/>
+   <response word="OVERFIT" count="1"/>
+   <response word="OVERHIT" count="1"/>
+   <response word="PARGOES" count="1"/>
+   <response word="PERGOLA" count="1"/>
+   <response word="PIDGEON" count="1"/>
+   <response word="PODGIER" count="1"/>
+   <response word="POLONIE" count="1"/>
+   <response word="POTAGES" count="1"/>
+   <response word="PTEROIC" count="1"/>
+   <response word="RATTLES" count="1"/>
+   <response word="RETARDS" count="1"/>
+   <response word="ROMAGES" count="1"/>
+   <response word="RONTGEN" count="1"/>
+   <response word="RUELLIA" count="1"/>
+   <response word="RUINERS" count="1"/>
+   <response word="SAUTING" count="1"/>
+   <response word="SDAINES" count="1"/>
+   <response word="SEABOOT" count="1"/>
+   <response word="SHOEING" count="1"/>
+   <response word="SITELLA" count="1"/>
+   <response word="SOCAGER" count="1"/>
+   <response word="STANDEN" count="1"/>
+   <response word="STANNEL" count="1"/>
+   <response word="STARLET" count="1"/>
+   <response word="STARTLE" count="1"/>
+   <response word="SUNNIER" count="1"/>
+   <response word="TAILLES" count="1"/>
+   <response word="TALENTS" count="1"/>
+   <response word="TATLERS" count="1"/>
+   <response word="TAUTENS" count="1"/>
+   <response word="TERGITE" count="1"/>
+   <response word="TETANUS" count="1"/>
+   <response word="TETRADS" count="1"/>
+   <response word="TRADERS" count="1"/>
+   <response word="TUTELAR" count="1"/>
+   <response word="UILLEAN" count="1"/>
+   <response word="UNREINS" count="1"/>
+   <response word="UNRISEN" count="1"/>
+   <response word="WAGONED" count="1"/>
+   <response word="WENDIGO" count="1"/>
+   <response word="WIDGEON" count="1"/>
+   <response word="WONGIED" count="1"/>
+  </missed-responses>
+ </progress>
+</zyzzyva-quiz>

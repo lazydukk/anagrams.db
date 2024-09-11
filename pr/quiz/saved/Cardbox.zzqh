@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <!DOCTYPE zyzzyva-quiz SYSTEM 'http://boshvark.com/dtd/zyzzyva-quiz.dtd'>
-<zyzzyva-quiz type="Anagrams" question-order="Schedule" lexicon="CSW21" method="Cardbox">
- <question-source type="cardbox-ready"/>
+<zyzzyva-quiz type="Anagrams" method="Cardbox" question-order="Schedule" lexicon="CSW21">
+ <question-source type="search">
+  <zyzzyva-search version="1">
+   <conditions>
+    <and>
+     <condition type="Anagram Match" negated="0" string="....."/>
+    </and>
+   </conditions>
+  </zyzzyva-search>
+ </question-source>
 </zyzzyva-quiz>
