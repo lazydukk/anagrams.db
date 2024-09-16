@@ -1,4 +1,3 @@
-pr/judge
-pr/lexicons
-pr/search
-pr/words
+judge/
+lexicons/
+words/

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE zyzzyva-search SYSTEM 'http://boshvark.com/dtd/zyzzyva-search.dtd'>
+<zyzzyva-search version="1">
+ <conditions>
+  <and>
+   <condition type="Length" min="4" max="5"/>
+   <condition negated="0" type="Includes Letters" string="V"/>
+  </and>
+ </conditions>
+</zyzzyva-search>
