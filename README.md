@@ -16,4 +16,4 @@
 `update questions SET next_scheduled = next_scheduled + 86400*12
     where next_scheduled is not null  and next_scheduled > strftime('%s','now') + 86400*12 
     AND next_scheduled % 2 =0`
-    (credits: [e4c5](htt[s://github.com/e4c5))
+(credits: (e4c5)[https://github.com/e4c5]
